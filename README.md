@@ -1,2 +1,2 @@
-# packrat
-Create FO2 dats with easy scripts
+# Packrat
+See [script.pack] and Use the Source, Luke.
