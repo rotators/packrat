@@ -1,2 +1,2 @@
 # Packrat
-See [script.pack] and Use the Source, Luke.
+See [script.pack](script.pack) and Use the Source, Luke.
